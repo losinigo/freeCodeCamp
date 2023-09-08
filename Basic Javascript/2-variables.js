@@ -36,6 +36,14 @@ var variableName;
  * 
  */
 
-// Use the var keyword to create a variable called myName
+/**
+ * Exercise
+ * 
+ * Instructions:
+ * 
+ * Use the var keyword to create a variable called myName
+ */
+
+// Solution
 
 var myName;
