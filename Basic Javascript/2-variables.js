@@ -15,7 +15,7 @@
  * which are collections of characters. Computers can perform mathematical operations on a number, but not on a string.
  * 
  * Variables allow computers to store and manipulate data in a dynamic fashion. 
- * They do this by using a "label" to point to the data rather than using the data itself. 
+ * They do this by using a label to point to the data rather than using the data itself. 
  * Any of the eight data types may be stored in a variable.
  * 
  * Variables are similar to the x and y variables you use in mathematics, 
